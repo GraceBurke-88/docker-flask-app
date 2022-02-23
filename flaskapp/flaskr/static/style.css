@@ -1,5 +1,6 @@
+
 html {
-  font-family: sans-serif;
+  /* font-family: sans-serif; */
   background: #eee;
   padding: 1rem;
 }
@@ -11,22 +12,22 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: serif;
-  color: #377ba8;
+  /* font-family: serif; */
+  color: #6f9eb7;
   margin: 1rem 0;
 }
 
 a {
-  color: #377ba8;
+  color: rgb(219, 227, 238);
 }
 
 hr {
   border: none;
-  border-top: 1px solid lightgray;
+  border-top: 1px solid rgba(55, 69, 164, 0.28);
 }
 
 nav {
-  background: lightgray;
+  background: rgb(111, 158, 183);
   display: flex;
   align-items: center;
   padding: 0 0.5rem;
